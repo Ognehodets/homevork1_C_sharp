@@ -1,0 +1,15 @@
+F:\DZ\zad8\bin\Debug\net6.0\zad8.exe
+F:\DZ\zad8\bin\Debug\net6.0\zad8.deps.json
+F:\DZ\zad8\bin\Debug\net6.0\zad8.runtimeconfig.json
+F:\DZ\zad8\bin\Debug\net6.0\zad8.dll
+F:\DZ\zad8\bin\Debug\net6.0\zad8.pdb
+F:\DZ\zad8\obj\Debug\net6.0\zad8.csproj.AssemblyReference.cache
+F:\DZ\zad8\obj\Debug\net6.0\zad8.GeneratedMSBuildEditorConfig.editorconfig
+F:\DZ\zad8\obj\Debug\net6.0\zad8.AssemblyInfoInputs.cache
+F:\DZ\zad8\obj\Debug\net6.0\zad8.AssemblyInfo.cs
+F:\DZ\zad8\obj\Debug\net6.0\zad8.csproj.CoreCompileInputs.cache
+F:\DZ\zad8\obj\Debug\net6.0\zad8.dll
+F:\DZ\zad8\obj\Debug\net6.0\refint\zad8.dll
+F:\DZ\zad8\obj\Debug\net6.0\zad8.pdb
+F:\DZ\zad8\obj\Debug\net6.0\zad8.genruntimeconfig.cache
+F:\DZ\zad8\obj\Debug\net6.0\ref\zad8.dll
